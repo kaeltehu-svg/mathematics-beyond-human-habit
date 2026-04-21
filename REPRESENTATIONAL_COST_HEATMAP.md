@@ -103,4 +103,4 @@ But it exposes the problem cleanly.
 Recommended image path:
 
 ```text
--docs-figures-representational_cost_heatmap.png
+/docs/figures-representational_cost_heatmap.png
